@@ -1,0 +1,46 @@
+.container-fluid {
+    padding: 0;
+  }
+  
+  .projects {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .image-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: start; /* Aligns image-text pairs to the left */
+    padding: 20px;
+  }
+  
+  .image-text-pair {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .image-text-pair img {
+    width: 80px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .text-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-title {
+    font-weight: bold;
+    color: #6e6e6e; /* Dark grey for title */
+    margin: 0;
+  }
+  
+  .image-description {
+    color: #a9a9a9; /* Light grey for text */
+    font-size: 0.9em;
+    margin: 4px 0 0;
+  }
+  
