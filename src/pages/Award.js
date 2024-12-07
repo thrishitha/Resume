@@ -32,7 +32,7 @@ const Award = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                Azure Data Fundamentals (DP 900) Certification
+                Azure Data Fundament (DP 900) Certification
               </li>
                 
             </ul>
